@@ -1,0 +1,25 @@
+/* Classe Principal para definir a largura */
+#main{
+    width: 1366px;
+    margin: 0 auto;
+
+}
+
+/* Linhas */
+.row{
+    clear: both;
+}
+/* Colunas */
+/* 100% */.bloco12{width: 100%;float: left;}
+
+
+/* Altura */
+/* 200px */.altura500{height: 300px;}
+
+/* Cores */
+.vermelho{background-color: #f00; }
+.laranja{background-color: #f60 }
+.amarelo{background-color: #ff0 }
+.azul{background-color: #06f }
+.verde{background-color: #0f3 }
+.roxo{background-color: #60f }
